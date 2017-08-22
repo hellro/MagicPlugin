@@ -1,6 +1,6 @@
 apprenticeboots:
     icon: "leather_boots:#00AAFF"
-    indestructible: false
+    indestructible: true
     locked: true
     keep: true
     mana_max_boost: 0.05
